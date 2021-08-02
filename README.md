@@ -17,9 +17,9 @@
     An experienced <b>Full-Stack Software Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and cofounder of <b>Bloomcker</b>&nbsp;<img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" height="30"/>&nbsp,
 
    
-   <p align="center">  I am also a professor of programming and introduction to emergent computing at the Universidad Central de Venezuela. </p>
+   <img src="https://media.giphy.com/media/l378AeyTYZKTLXiuY/source.gif" width="40px"> <p align="center">  And a professor of programming and introduction to emergent computing at the Universidad Central de Venezuela. </p>
 
-<img src="https://media.giphy.com/media/nXxOjZrbnbRxS/source.gif" width="60px">&nbsp;***Languages & Tools I Know...***
+<img src="https://media.giphy.com/media/nXxOjZrbnbRxS/source.gif" width="40px">&nbsp;***Languages & Tools I Know...***
 <p align="left">
   
   <code><img height="50" src="https://github.com/hugovk/python-logos/blob/master/img/Python.png"></code><code> 
