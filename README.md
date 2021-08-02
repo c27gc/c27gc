@@ -17,7 +17,7 @@
     A experienced <b>Full-Stack Software Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and cofounder of <b>Bloomcker</b>&nbsp;<img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" height="30"/>&nbsp,
 
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools I Know...***
+<img src="https://media.giphy.com/media/nXxOjZrbnbRxS/source.gif" width="30px">&nbsp;***Languages & Tools I Know...***
 <p align="left">
   
   <code><img height="50" src="https://github.com/hugovk/python-logos/blob/master/img/Python.png"></code><code> 
