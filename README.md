@@ -14,7 +14,7 @@
 <p align="center">
   <em>
     This is ME, Carlos González, an <b>Electrical Engineer</b> graduated from <a href="http://www.ucv.ve//"> <b>Central University of Venezuela</b></a>, Caracas Venezuela. <br>
-    An experienced <b>Full-Stack Software Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and cofounder of <b>Bloomcker</b>&nbsp;<img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" height="30"/>&nbsp,
+    An experienced <b>Full-Stack Software Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">, cofounder of <b>Bloomcker</b>&nbsp;<img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" height="30"/>&nbsp,
 
    
    <p align="center"> And a professor of programming and introduction to emergent computing at the <b>Central University of Venezuela</b>. </p>
